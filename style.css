@@ -10,10 +10,10 @@
     background-color: #fceae8;
 }
 
-.cat1, .cat2, .cat3{
-    padding: 10px 30px;
+.card{
+    border: none;
     border-radius: 10px;
-    background-color: #17a2b8;
+    box-shadow: 5px 5px 10px 5px lightgrey;
 }
 
 footer{
