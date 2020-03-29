@@ -2,10 +2,11 @@
 
 .margin{
     margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px lightgrey;
 }
 .margin-contactus{
     margin-top: 50px;
-    margin
 }
 
 .orange-bg{
@@ -23,6 +24,7 @@
 
 #subscribe{
     height: 300px
+
 }
 #subscribe h6{
     color: gray;
