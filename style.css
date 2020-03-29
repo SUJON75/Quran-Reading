@@ -1,6 +1,14 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
 
 .margin{
     margin-top: 50px;
+}
+.margin-contactus{
+    margin-top: 50px;
+    margin
 }
 
 .orange-bg{
@@ -15,6 +23,25 @@
     border-radius: 10px;
     box-shadow: 5px 5px 10px 5px lightgrey;
 }
+
+#subscribe{
+    height: 300px
+}
+#subscribe h6{
+    color: gray;
+}
+
+
+
+#top_banner {
+    float: right;
+    width: 630px;
+    margin: 5px 0px 4px 20px;
+    color: #555555;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
 
 footer{
     background-color: #1c1c1c;
